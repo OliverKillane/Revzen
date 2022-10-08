@@ -3,15 +3,21 @@
 ## Description
 DRP group 28 featuring Nurdayana Muhd Faisal, Alfie Chenery, Miles Nash and Oliver Killane. Developing an app-based solution to prevent revision procrastination and study session distraction by mobile devices.
 
-## Milestone 1
-Identified the problem, using both academic sources, our own survey and interviews to get an intuition for the problem, and how effective current solutions are.
+The video presented of the problem can be found [here](https://drive.google.com/file/d/1YDk0OAX-id19LFdZmLnov0wUPu3iIrON/view).
 
-The video presented can be found [here](https://drive.google.com/file/d/1YDk0OAX-id19LFdZmLnov0wUPu3iIrON/view).
+<img src="https://user-images.githubusercontent.com/44177991/194718315-e5ecc53a-61dd-4afe-886b-97f8f7f570fd.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/44177991/194718318-5684129e-82d8-4a3d-970a-d1f714b98dd0.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/44177991/194718328-f40219b8-29d1-4842-b50a-cbdd3a3f8779.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/44177991/194718324-e3e3916c-5053-4ac5-a5af-6d2dc38df8be.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/44177991/194718322-d712c46b-72d2-46b6-a128-823b8d96b60f.png" alt="drawing" width="180"/>
+
+## Presentation
+The [final presentation slides](presentation/final_presentation_slides.pdf) and [marketing material](presentation/project_pitch_leaflet.pdf) can be found in `presentation/`.
+
+## Functionality
+This project is no longer actively maintained, and has been mirrored from gitlab. The Heroku deployment no longer runs & URIs are invalid. The CI/CD for this project was developed for gitlab & is not functional on github.
 
 ## Documentation:
 The documentation for the backend is generated from the `dev` branch by our CI and can be found [here](https://ok220.pages.doc.ic.ac.uk/group-28-drp/backend_doc/revzen_backend/index.html).
 
 ## Git Hygiene
+Project includes marks for proper repository management. This project is no longer actively developed, and the CI is for gitlab, so is not functional here.
 
 ### Dev Branch
 When making changes for new features, branch from, and eventually merge into the `dev` branch. Master is used for the public facing, released version. This allows for the group to test for bugs, use and experience new features, and show new feature developments to stakeholders before publicly releasing. 
